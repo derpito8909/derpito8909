@@ -28,7 +28,7 @@ background in developing custom applications. Skilled in multiple front-end and 
 | ![scrum](https://img.shields.io/badge/-scrum-grey?style=for-the-badge&logo=scrum&logoColor=white&labelColor=8E2DE2) |
 
 
-
+## Portafolio
 _Explore my [portfolio](https://portafoliodavidrodriguez.netlify.app/)._ -->
 
 ---
